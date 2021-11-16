@@ -205,7 +205,7 @@ DTREE はkrep1.lisp に実装されているが、以下の関連ファイルを
 	```
 	```
 	CL-USER> (progn 1 2)
-	1
+	2
 	```
 
 ## JSCL の制限
