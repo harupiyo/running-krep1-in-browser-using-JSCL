@@ -15,8 +15,8 @@ https://jscl-project.github.io/
 
 2. krep1.lisp の全フォームをPROGN にまとめた以下の２つのチャンクを順にREPL にペーストする
 
-MEMO 本来はLOAD したいが、それがない.
-MEMO 全体を１つのPROGN にまとめたいが "ERROR: Unknown generalized reference." というエラーが出てしまうため、試行錯誤でPROGN を分割した.
+- MEMO 本来はLOAD したいが、それがない.
+- MEMO 全体を１つのPROGN にまとめたいが "ERROR: Unknown generalized reference." というエラーが出てしまうため、試行錯誤でPROGN を分割した.
 
 ```
 (progn
